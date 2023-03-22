@@ -102,7 +102,7 @@ $dados = file("./dados/fornecedores.txt");
                                                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                                         </div>
                                                         <div class="modal-body">
-                                                            Deseja excluir o produto <strong><?= $linha[1]; ?></strong> Essa alteração não pode ser desfeita!
+                                                            Deseja excluir esse fornecedor <strong><?= $linha[1]; ?></strong> Essa alteração não pode ser desfeita!
                                                         </div>
                                                         <div class="modal-footer">
                                                             <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Não, Sair!</button>
