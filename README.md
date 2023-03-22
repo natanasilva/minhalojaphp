@@ -1,10 +1,10 @@
-## minhalojaphp
-#Atividade desenvolvida durante o Curso de Linguagem de Programação PHP da Universidade do Trabalho Digital - UTD 
+## Loja em PHP(Sem Banco de Dados)
+### Atividade desenvolvida durante o Curso de Linguagem de Programação PHP da Universidade do Trabalho Digital - UTD 
 
-#01 - Crie um formulário para o cadastro de produtos com os campos: nome, código, estoque, preço, data de cadastro.
-Crie um formulário para o cadastro de fornecedores com os campos: nome, razão social, cnpj, data de cadastro.
+##### 01 - Crie um formulário para o cadastro de produtos com os campos: nome, código, estoque, preço, data de cadastro.
+##### Crie um formulário para o cadastro de fornecedores com os campos: nome, razão social, cnpj, data de cadastro.
 
-Grave os dados dos produtos e dos fornecedores em arquivos de texto (ou outros) e depois exiba-os em uma tabela (uma tabela para cada).
+##### Grave os dados dos produtos e dos fornecedores em arquivos de texto (ou outros) e depois exiba-os em uma tabela (uma tabela para cada).
 
 ## Contatos:
 
